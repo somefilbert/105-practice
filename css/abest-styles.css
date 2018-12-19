@@ -1,0 +1,24 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  color: darkgrey;
+}
+
+header h1 {
+  text-transform: uppercase;
+  text-align: center;
+  padding: 20px;
+}
+
+h4 {
+  color: olive;
+  text-align: center;
+}
+
+section p {
+padding: 0 60px;
+}
+
+footer {
+  text-align: center;
+  padding: 60px;
+}
